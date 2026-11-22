@@ -308,7 +308,10 @@ def botoes():
 if __name__ == "__main__":
     data = fetch()
     for m in THEMES:
-        header(m)
         painel(m, data)
-    botoes()
+    # cabeçalho e botões não dependem de dados: só são gerados localmente (precisam das fontes para medir o texto)
+    if not os.environ.get("CI"):
+        for m in THEMES:
+            header(m)
+        botoes()
     print("ok")
