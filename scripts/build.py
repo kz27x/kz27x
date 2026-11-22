@@ -17,7 +17,7 @@ THEMES = {
     "dark": dict(bg="#050506", surf="#0E0E10", line="#1C1C1E", line2="#2C2C2E", text="#F5F5F7",
                  dim="#8E8E93", faint="#48484A", blob="#3A3A3C", blob2="#1C1C1E",
                  alu=["#8E8E93", "#F5F5F7", "#A1A1A6", "#E8E8ED", "#8E8E93"],
-                 heat=["#141416", "#2C2C2E", "#636366", "#AEAEB2", "#F5F5F7"],
+                 heat=["#1F1F22", "#3A3A3C", "#636366", "#AEAEB2", "#F5F5F7"],
                  ink={1: "#5A5A5E", 2: "#C7C7CC", 3: "#FFFFFF"}, grain=0.07),
     "light": dict(bg="#ECECEF", surf="#F5F5F7", line="#D9D9DE", line2="#C7C7CC", text="#1D1D1F",
                   dim="#6E6E73", faint="#AEAEB2", blob="#FFFFFF", blob2="#D2D2D7",
