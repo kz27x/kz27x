@@ -1,51 +1,43 @@
-<p align="center">
-  <img src="assets/header.svg" alt="kaua@zarpa — terminal" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="Quem desenha é quem constrói. Kauã, Zarpa Dev." width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/painel-light.svg">
+  <img src="assets/painel-dark.svg" alt="Meu retrato desenhado em caracteres e meus números no GitHub" width="100%">
+</picture>
+
+<br>
+
+Venho do comércio exterior, onde tudo tem medida: prazo, peso, custo. Foi lá que aprendi a enxergar o retrabalho que ninguém vê.
+
+Hoje, na **[Zarpa](https://zarpadev.com.br)**, eu desenho e construo sites e sistemas sob medida. Nada sai de prateleira: cada projeto nasce do problema de quem me procura, e quem desenha é quem constrói.
+
+<br>
+
+<table>
+  <tr><td><code>01</code></td><td><b><a href="https://zarpadev.com.br">Zarpa Dev</a></b></td><td>Sites e sistemas sob medida, do primeiro traço ao ar.</td></tr>
+  <tr><td><code>02</code></td><td><b><a href="https://orcaisoluti.vercel.app">Orçaí</a></b></td><td>Orçamento por voz para autônomos, com Pix e envio no WhatsApp.</td></tr>
+  <tr><td><code>03</code></td><td><b><a href="https://zarpadelivery.vercel.app">Zarpa Delivery</a></b></td><td>Cardápio digital: o pedido chega pronto no WhatsApp.</td></tr>
+  <tr><td><code>04</code></td><td><b><a href="https://zarpadev.com.br/vitrine-tv">Vitrine TV</a></b></td><td>A TV da empresa com a marca dela, controlada por um painel.</td></tr>
+</table>
+
+<br>
+
+<p>
+  <a href="https://wa.me/5527998690302?text=Quero%20tirar%20minha%20ideia%20do%20papel!"><img src="assets/btn-whatsapp.svg" alt="Conversar no WhatsApp" height="64"></a>
+  <a href="https://instagram.com/pessinkauaa"><img src="assets/btn-instagram.svg" alt="Instagram @pessinkauaa" height="64"></a>
+  <a href="https://zarpadev.com.br"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-site-light.svg"><img src="assets/btn-site-dark.svg" alt="zarpadev.com.br" height="64"></picture></a>
+  <a href="https://instagram.com/zarpa.dev"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-zarpa-light.svg"><img src="assets/btn-zarpa-dark.svg" alt="Instagram @zarpa.dev" height="64"></picture></a>
 </p>
-
-<p align="center">
-  <img src="assets/dashboard.svg" alt="Painel: retrato, heatmap e números" width="100%">
-</p>
-
-## `$ cat sobre.md`
-
-Eu sou o **Kauã**, fundador da **[Zarpa Desenvolvimento](https://zarpadev.com.br)**, no Espírito Santo, atendendo o Brasil inteiro.
-Há anos resolvo problema com tecnologia. Trabalho com comércio exterior, e foi lá que vi quanto tempo as empresas perdem com retrabalho.
-Hoje construo **sites e sistemas sob medida** para negócios serem encontrados e escolhidos.
-
-*Zarpar: partir, sair do cais. É isso que a marca faz com a ideia de quem chega até mim.*
-
-## `$ ls projetos/`
-
-| Projeto | O que é | Link |
-|---|---|---|
-| **Zarpa Dev** | Sites e sistemas sob medida | [zarpadev.com.br](https://zarpadev.com.br) |
-| **Orçaí** | Orçamento por voz para autônomos e MEIs, com Pix e envio no WhatsApp | [orcaisoluti.vercel.app](https://orcaisoluti.vercel.app) |
-| **Zarpa Delivery** | Cardápio digital: o cliente monta o pedido e ele chega pronto no WhatsApp | [zarpadelivery.vercel.app](https://zarpadelivery.vercel.app) |
-| **Vitrine TV** | TV corporativa com a marca do cliente, controlada por painel | [zarpadev.com.br/vitrine-tv](https://zarpadev.com.br/vitrine-tv) |
-
-## `$ stack --list`
-
-```
-front   ▸ HTML · CSS · JavaScript · TypeScript · React · Three.js
-back    ▸ Supabase · Postgres · APIs · Automação
-deploy  ▸ Vercel · Cloudflare
-método  ▸ entender → pensar → construir → lançar
-```
 
 <details>
-<summary>English</summary>
+<summary><sub>English</sub></summary>
+<br>
 
-I'm **Kauã**, founder of **[Zarpa Dev](https://zarpadev.com.br)** (Espírito Santo, Brazil). Foreign trade background, now building custom websites and systems so businesses get found and chosen.
+I come from foreign trade, where everything has a measure: deadlines, weight, cost. Now, at **[Zarpa](https://zarpadev.com.br)**, I design and build custom websites and systems. The one who draws is the one who builds.
 
 </details>
 
-## `$ contato --abrir`
-
-<p>
-  <a href="https://wa.me/5527998690302?text=Quero%20tirar%20minha%20ideia%20do%20papel!"><img src="https://img.shields.io/badge/WhatsApp-conversar-FFB000?style=for-the-badge&labelColor=0d0b08&logo=whatsapp&logoColor=FFB000" alt="WhatsApp"></a>
-  <a href="https://instagram.com/pessinkauaa"><img src="https://img.shields.io/badge/Instagram-@pessinkauaa-FFB000?style=for-the-badge&labelColor=0d0b08&logo=instagram&logoColor=FFB000" alt="Instagram"></a>
-  <a href="https://instagram.com/zarpa.dev"><img src="https://img.shields.io/badge/Zarpa-@zarpa.dev-FFB000?style=for-the-badge&labelColor=0d0b08" alt="Zarpa"></a>
-  <a href="https://zarpadev.com.br"><img src="https://img.shields.io/badge/Site-zarpadev.com.br-FFB000?style=for-the-badge&labelColor=0d0b08" alt="Site"></a>
-</p>
-
-<p align="center"><sub>Feito com café e <a href="https://zarpadev.com.br">Zarpa Dev</a></sub></p>
+<p align="right"><sub>Desenhado e construído pela <a href="https://zarpadev.com.br">Zarpa Dev</a></sub></p>
