@@ -1,60 +1,51 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Zarpa | KZ — sites, sistemas e ferramentas web" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/header.svg" alt="kaua@zarpa — terminal" width="100%">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/dashboard.svg" alt="Painel: retrato, heatmap e números" width="100%">
+</p>
 
-<a href="https://zarpadev.com.br/"><img src="https://img.shields.io/badge/Site-zarpadev.com.br-2F5D73?style=for-the-badge" alt="Site: zarpadev.com.br"></a>
-<a href="https://www.instagram.com/zarpa.dev/"><img src="https://img.shields.io/badge/Instagram-%40zarpa.dev-2F5D73?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @zarpa.dev"></a>
+## `$ cat sobre.md`
 
-📍 Espírito Santo, Brasil
+Eu sou o **Kauã**, fundador da **[Zarpa Desenvolvimento](https://zarpadev.com.br)**, no Espírito Santo, atendendo o Brasil inteiro.
+Há anos resolvo problema com tecnologia. Trabalho com comércio exterior, e foi lá que vi quanto tempo as empresas perdem com retrabalho.
+Hoje construo **sites e sistemas sob medida** para negócios serem encontrados e escolhidos.
 
-</div>
+*Zarpar: partir, sair do cais. É isso que a marca faz com a ideia de quem chega até mim.*
 
-## Sobre
+## `$ ls projetos/`
 
-Comércio Exterior de profissão. Na Zarpa, crio sites, sistemas e ferramentas web para pequenos negócios.
+| Projeto | O que é | Link |
+|---|---|---|
+| **Zarpa Dev** | Sites e sistemas sob medida | [zarpadev.com.br](https://zarpadev.com.br) |
+| **Orçaí** | Orçamento por voz para autônomos e MEIs, com Pix e envio no WhatsApp | [orcaisoluti.vercel.app](https://orcaisoluti.vercel.app) |
+| **Zarpa Delivery** | Cardápio digital: o cliente monta o pedido e ele chega pronto no WhatsApp | [zarpadelivery.vercel.app](https://zarpadelivery.vercel.app) |
+| **Vitrine TV** | TV corporativa com a marca do cliente, controlada por painel | [zarpadev.com.br/vitrine-tv](https://zarpadev.com.br/vitrine-tv) |
 
-## O que faço
+## `$ stack --list`
 
-<table>
-  <tr>
-    <td width="50%">🌐 <b>Sites e landing pages</b></td>
-    <td width="50%">🍽️ <b>Cardápios digitais para delivery</b></td>
-  </tr>
-  <tr>
-    <td width="50%">⚙️ <b>Sistemas e ferramentas internas</b></td>
-    <td width="50%">🎨 <b>Webdesign</b></td>
-  </tr>
-</table>
+```
+front   ▸ HTML · CSS · JavaScript · TypeScript · React · Three.js
+back    ▸ Supabase · Postgres · APIs · Automação
+deploy  ▸ Vercel · Cloudflare
+método  ▸ entender → pensar → construir → lançar
+```
 
 <details>
-<summary>🇬🇧 English</summary>
+<summary>English</summary>
 
-### About
-
-Foreign Trade professional. At Zarpa, I build websites, systems and web tools for small businesses.
-
-### What I do
-
-<table>
-  <tr>
-    <td width="50%">🌐 <b>Websites and landing pages</b></td>
-    <td width="50%">🍽️ <b>Digital menus for delivery</b></td>
-  </tr>
-  <tr>
-    <td width="50%">⚙️ <b>Internal systems and tools</b></td>
-    <td width="50%">🎨 <b>Web design</b></td>
-  </tr>
-</table>
-
-📍 Espírito Santo, Brazil
+I'm **Kauã**, founder of **[Zarpa Dev](https://zarpadev.com.br)** (Espírito Santo, Brazil). Foreign trade background, now building custom websites and systems so businesses get found and chosen.
 
 </details>
 
-<br>
+## `$ contato --abrir`
 
-<div align="center">
-  <sub><a href="https://zarpadev.com.br/">Zarpa Dev · zarpadev.com.br</a></sub>
-</div>
+<p>
+  <a href="https://wa.me/5527998690302?text=Quero%20tirar%20minha%20ideia%20do%20papel!"><img src="https://img.shields.io/badge/WhatsApp-conversar-FFB000?style=for-the-badge&labelColor=0d0b08&logo=whatsapp&logoColor=FFB000" alt="WhatsApp"></a>
+  <a href="https://instagram.com/pessinkauaa"><img src="https://img.shields.io/badge/Instagram-@pessinkauaa-FFB000?style=for-the-badge&labelColor=0d0b08&logo=instagram&logoColor=FFB000" alt="Instagram"></a>
+  <a href="https://instagram.com/zarpa.dev"><img src="https://img.shields.io/badge/Zarpa-@zarpa.dev-FFB000?style=for-the-badge&labelColor=0d0b08" alt="Zarpa"></a>
+  <a href="https://zarpadev.com.br"><img src="https://img.shields.io/badge/Site-zarpadev.com.br-FFB000?style=for-the-badge&labelColor=0d0b08" alt="Site"></a>
+</p>
+
+<p align="center"><sub>Feito com café e <a href="https://zarpadev.com.br">Zarpa Dev</a></sub></p>

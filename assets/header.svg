@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<defs>
+<clipPath id="c0"><rect x="24" y="66" width="0" height="22"><animate attributeName="width" from="0" to="184" begin="0.40s" dur="0.60s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="24" y="92" width="0" height="22"><animate attributeName="width" from="0" to="535" begin="1.35s" dur="2.65s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="24" y="118" width="0" height="22"><animate attributeName="width" from="0" to="256" begin="4.36s" dur="0.63s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="24" y="144" width="0" height="22"><animate attributeName="width" from="0" to="373" begin="5.34s" dur="1.84s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="24" y="170" width="0" height="22"><animate attributeName="width" from="0" to="373" begin="7.53s" dur="1.21s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="900" height="210" rx="10" fill="#0d0b08" stroke="#2a2418"/>
+<rect width="900" height="30" rx="10" fill="#15120d"/><rect y="20" width="900" height="10" fill="#15120d"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="54" cy="15" r="5" fill="#27c93f"/>
+<text x="450.0" y="19" fill="#7a6a45" font-size="12" text-anchor="middle">kaua@zarpa — bash</text>
+<text x="24" y="58" fill="#7a6a45" font-size="12">Último acesso: hoje, em algum lugar do Espírito Santo</text>
+<g clip-path="url(#c0)" font-size="15">
+<text x="24" y="82" fill="#FFB000" xml:space="preserve">kaua@zarpa:~$ </text>
+<text x="150.0" y="82" fill="#e8dcc0" xml:space="preserve">whoami</text></g>
+<g clip-path="url(#c1)" font-size="15">
+<text x="24" y="108" fill="#FFB000" xml:space="preserve">Kauã Pessin — dono da Zarpa, construtor de sites e sistemas</text></g>
+<g clip-path="url(#c2)" font-size="15">
+<text x="24" y="134" fill="#FFB000" xml:space="preserve">kaua@zarpa:~$ </text>
+<text x="150.0" y="134" fill="#e8dcc0" xml:space="preserve">cat missao.txt</text></g>
+<g clip-path="url(#c3)" font-size="15">
+<text x="24" y="160" fill="#e8dcc0" xml:space="preserve">Seu negócio sendo encontrado e escolhido.</text></g>
+<g clip-path="url(#c4)" font-size="15">
+<text x="24" y="186" fill="#FFB000" xml:space="preserve">kaua@zarpa:~$ </text>
+<text x="150.0" y="186" fill="#e8dcc0" xml:space="preserve">zarpar --para todo-o-brasil</text></g>
+<rect x="397" y="173" width="9" height="17" fill="#FFB000" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1.1s" begin="9.10s" repeatCount="indefinite"/></rect>
+</svg>
